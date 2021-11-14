@@ -1,4 +1,4 @@
-Package: com.dhd111.deadtwaek 
+Package: com.deadtwaek 
 Version: 1.7.1-1k
 Architecture: iphoneos-arm
 Maintainer: DHD111
@@ -12,8 +12,3 @@ SHA256: c49b2fae16ac1d6b2b56d63ea449afced4f89c20360e81a28915b95721fc50f6
 Section: Tweaks
 Depiction:  
 Name: deadtwaek 
-
-
- تحط سطر فراغ  تحت المعلومات كل اداة   
- 
- هنا تبدا معلومات  الاداة الثانية 
