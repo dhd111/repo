@@ -2,7 +2,7 @@ Package: com.dhd111.deadtwaek
 Version: 1.7.1k
 Architecture: iphoneos-arm
 Maintainer: DHD111
-Depends: 
+Depends: firmware (>= 10.0), mobilesubstrate, sed
 Conflicts: 
 Filename: repo/debs/com.dhd111.DeadTweak_1.7.1k_iphoneos-arm.deb
 Size: 5079206 
