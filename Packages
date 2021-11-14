@@ -1,14 +1,44 @@
 Package: com.dhd111.deadtwaek 
-Version: 1.7.1k
+Version: 1.7.1-1k
 Architecture: iphoneos-arm
 Maintainer: DHD111
-Depends: firmware (>= 10.0), mobilesubstrate, sed
+Depends: l 
 Conflicts: 
-Filename: /debs/com.dhd111.DeadTweak_1.7.1k_iphoneos-arm.deb
+Filename: repo/debs/com.dhd111.deadtweak_1.7.1k_iphoneos-arm.deb
 Size: 5079206 
 MD5sum: a9bff0147f3fcb5b741458380e18a49e
 SHA1: f7eb83b6c23fdbebf73d04f9c2a965e7dfe1cf5e
 SHA256: 18850b904fab9be5fc346064d20f5bc23e53c605dc44bf3a493e4d29c20e5b89
 Section: Tweaks
-Depiction:  No more Depiction
+Depiction:  
 Name: DeadTweak اداة ‏سناب بريك بلس 
+
+Package: com.dhd111.miro.uyou
+Version: 2.1k
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
+Conflicts: اcom.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere
+Filename: /debs/com.dhd111.miro.uyou_2.1_iphoneos-arm.deb
+Size: 14799368
+MD5sum: 709fd0aa699d7fc4c9c566138f416d11
+SHA1: 124c14371d7afab080b05d518826417006f23980
+SHA256: c9de82aa04dbf9c629e71ddc133f00ddec6222fb4c9fdea8b836ed95f51f6de3
+Section: Tweaks
+Depiction:  
+Name: uYou   
+
+Package: com.dhd111.miro.uyouimport
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: MiRO <tweaks_support@miro92.com>
+Depends: firmware (>=13.0), mobilesubstrate 
+Conflicts: 
+Filename: /debs/com.dhd111.miro.uyouimport_1.0_iphoneos-arm
+Size: 144136
+MD5sum: c980643ab9cefa84cc674dc3d37aa033
+SHA1: 07b83f31bdafb09562eb750e31968481efabf730
+SHA256: e0d681380a7f4a62e99e21082e7d629f62a3de5d1746857bd2bca515546f1c2c
+Section: Tweaks
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
+Name: uYouImport
