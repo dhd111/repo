@@ -1,14 +1,14 @@
-Package: com.deadtwaek 
-Version: 1.7.1-1k
+Package: com.dhd111.deadtwaek 
+Version: 1.7.1k
 Architecture: iphoneos-arm
 Maintainer: DHD111
-Depends: l 
+Depends: 
 Conflicts: 
-Filename: repo/debs/com.dhd111.deadtweak_1.7.1_iphoneos-arm.deb
-Size: 5079116
-MD5sum: e290cdccb226cb490dd10167d5a07f2b
-SHA1: 3f60ca10c8b44dcc4140a97e7d2dbedec78d5d05
-SHA256: c49b2fae16ac1d6b2b56d63ea449afced4f89c20360e81a28915b95721fc50f6
+Filename: repo/debs/com.dhd111.deadtweak_1.7.1k_iphoneos-arm.deb
+Size: 5079206 
+MD5sum: a9bff0147f3fcb5b741458380e18a49e
+SHA1: f7eb83b6c23fdbebf73d04f9c2a965e7dfe1cf5e
+SHA256: 18850b904fab9be5fc346064d20f5bc23e53c605dc44bf3a493e4d29c20e5b89
 Section: Tweaks
 Depiction:  
-Name: deadtwaek 
+Name: DeadTweak اداة ‏سناب بريك بلس 
