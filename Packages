@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: DHD111
 Depends: firmware (>= 10.0), mobilesubstrate, sed
 Conflicts: 
-Filename: /debs/com.dhd111.deadtweak_1.7.1k_iphoneos-arm.deb
+Filename: ./debs/com.dhd111.deadtweak_1.7.1k_iphoneos-arm.deb
 Size: 5079206 
 MD5sum: a9bff0147f3fcb5b741458380e18a49e
 SHA1: f7eb83b6c23fdbebf73d04f9c2a965e7dfe1cf5e
@@ -19,7 +19,7 @@ Architecture: iphoneos-arm
 Maintainer: MiRO <tweaks_support@miro92.com>
 Depends: firmware (>=13.0), mobilesubstrate, com.dhd111.miro.uyouimport
 Conflicts: اcom.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere
-Filename: /debs/com.dhd111.miro.uyou_2.1_iphoneos-arm.deb
+Filename: ./debs/com.dhd111.miro.uyou_2.1_iphoneos-arm.deb
 Size: 14799368
 MD5sum: 709fd0aa699d7fc4c9c566138f416d11
 SHA1: 124c14371d7afab080b05d518826417006f23980
@@ -34,7 +34,7 @@ Architecture: iphoneos-arm
 Maintainer: MiRO <tweaks_support@miro92.com>
 Depends: firmware (>=13.0), mobilesubstrate 
 Conflicts: 
-Filename: /debs/com.dhd111.miro.uyouimport_1.0_iphoneos-arm
+Filename: ./debs/com.dhd111.miro.uyouimport_1.0_iphoneos-arm
 Size: 144136
 MD5sum: c980643ab9cefa84cc674dc3d37aa033
 SHA1: 07b83f31bdafb09562eb750e31968481efabf730
