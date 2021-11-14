@@ -4,7 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: DHD111
 Depends: firmware (>= 10.0), mobilesubstrate, sed
 Conflicts: 
-Filename: debs/com.dhd111.DeadTweak_1.7.1k_iphoneos-arm.deb
+Filename: /debs/com.dhd111.DeadTweak_1.7.1k_iphoneos-arm.deb
 Size: 5079206 
 MD5sum: a9bff0147f3fcb5b741458380e18a49e
 SHA1: f7eb83b6c23fdbebf73d04f9c2a965e7dfe1cf5e
