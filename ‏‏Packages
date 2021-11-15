@@ -11,14 +11,14 @@ SHA1: f7eb83b6c23fdbebf73d04f9c2a965e7dfe1cf5e
 SHA256: 18850b904fab9be5fc346064d20f5bc23e53c605dc44bf3a493e4d29c20e5b89
 Section: Tweaks
 Depiction:  
-Name: DeadTweak اداة ‏سناب بريك بلس 
+Name: DeadTweak اداة سناب بريك بلس 
 
 Package: com.dhd111.miro.uyou
 Version: 2.1k
 Architecture: iphoneos-arm
 Maintainer: MiRO <tweaks_support@miro92.com>
 Depends: firmware (>=13.0), mobilesubstrate, com.dhd111.miro.uyouimport
-Conflicts: اcom.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere
 Filename: /debs/com.dhd111.miro.uyou_2.1_iphoneos-arm.deb
 Size: 14799368
 MD5sum: 709fd0aa699d7fc4c9c566138f416d11
