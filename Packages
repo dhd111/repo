@@ -13,8 +13,6 @@ Section: Tweaks
 Depiction:  
 Name: DeadTweak اداة ‏سناب بريك بلس 
 
-
-
 Package: com.dhd111.miro.uyou
 Version: 2.1k
 Architecture: iphoneos-arm
@@ -29,8 +27,6 @@ SHA256: c9de82aa04dbf9c629e71ddc133f00ddec6222fb4c9fdea8b836ed95f51f6de3
 Section: Tweaks
 Depiction:  
 Name: uYou   
-
-
 
 Package: com.dhd111.miro.uyouimport
 Version: 1.0
